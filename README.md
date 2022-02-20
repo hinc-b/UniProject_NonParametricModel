@@ -17,7 +17,7 @@ When comparing models with each other and considering them with regard to the de
 It is worth mentioning that none of the variables in each of the models was statistically significant. This proves that the explanatory variables CreditScore, Balance as well as Age do not have a significant influence on the dependent variable EstimatedSalary.
 
 Comparing the models with each other shows that the second model significantly simplifies the relationship between the variables. If there is such a dependence at all. 
-# Based only on the available data, the first model turns out to be the best, both qualitatively and in terms of explaining the variability.
+### Based only on the available data, the first model turns out to be the best, both qualitatively and in terms of explaining the variability.
 
 ---------------------
 # Presentation 
